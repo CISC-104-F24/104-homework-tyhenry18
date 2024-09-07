@@ -8,6 +8,14 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
      Debug.Log("Hello, world!");
+     Debug.LogWarning("I am a warning");
+     Debug.LogError("I am error");
+     //Author Tyler Henry
+     /*
+      * will we be creating our own game?
+      * is it going to be fun?
+      * do we do presentations?
+      */
     }
 
     // Update is called once per frame
